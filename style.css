@@ -1,0 +1,83 @@
+body{
+    margin: 80px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+    .col1{
+        color: blueviolet;
+        border: 2px solid;
+        border-color: rgb(95, 91, 91);
+        border-radius: 8px;
+       
+        padding: 5px;
+        box-sizing: border-box;
+        width: 350px;
+        height: 50px;
+        padding-top: 14px;
+        font-weight: bold;
+        font-size: 17px;
+        display: flex;
+        justify-content: center;
+    }
+
+img{
+    margin-left: 40px;
+    margin-top: -14px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 40px;
+    height: 40px;
+  }
+
+.google{
+    margin-bottom: -40px;   
+    }
+
+
+.col2{
+    color: blueviolet;
+    border: 2px solid;
+    border-color: rgb(95, 91, 91);
+    border-radius: 8px;
+    padding: 5px;
+    box-sizing: border-box;
+    width: 350px;
+    height: 50px;
+    padding-top: 14px;
+    font-weight: bold;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    }
+
+    .twitter{
+        margin-bottom: -40px;
+    }
+
+hr{
+    width: 200px;
+    
+ }
+
+ .hr1{
+    display: flex;
+    margin: 30px;
+   margin-right: 700px;
+    }
+  
+.username{
+    border: 2px solid;
+    border-radius: 4px;
+    border-color: rgb(101, 98, 98);
+    width: 350px;
+    height: 30px;
+    }
+
+a{
+    margin-left: 210px;
+ }
+.ceo{
+    
+}
